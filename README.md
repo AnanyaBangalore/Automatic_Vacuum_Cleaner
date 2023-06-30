@@ -1,2 +1,2 @@
 # Automatic_Vacuum_Cleaner
-This project demonstrates the potential of robotics and automation in improving household tasks and has practical applications in various domains, such as home cleaning and commercial cleaning services.
+An automatic hoover cleaner is a robotic device that cleans floors automatically using sensors and algorithms. The machine can be programmed to clean at predetermined intervals and is capable of sensing and avoiding obstructions like walls and furniture. This project shows how robotics and automation can be used to better perform household chores and has real-world implications in a number of industries, including commercial and residential cleaning services.
